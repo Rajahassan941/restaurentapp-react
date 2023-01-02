@@ -19,7 +19,7 @@ function Restoperation({operate}) {
     
           <Modal show={show} onHide={handleClose}>
             <Modal.Header closeButton>
-              <Modal.Title>  Operatinh Hours</Modal.Title>
+              <Modal.Title>  Operating Hours</Modal.Title>
             </Modal.Header>
             <Modal.Body>
             <ListGroup>
