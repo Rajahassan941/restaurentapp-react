@@ -14,7 +14,7 @@ function Restoperation({operate}) {
     <>
         
             <Button variant="dark" onClick={handleShow}>
-            Operatinh Hours
+            Operating Hours
           </Button>
     
           <Modal show={show} onHide={handleClose}>
